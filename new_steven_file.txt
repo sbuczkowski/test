@@ -4,3 +4,6 @@ eventual squash of commits
 Making first edit to be commited separately on local branch but squashed
 on merge to master and subsequent push to origin
 
+
+And making a second edit and commit cycle
+
