@@ -1,3 +1,6 @@
 Introducing a new file to be first commit in an 
 eventual squash of commits
 
+Making first edit to be commited separately on local branch but squashed
+on merge to master and subsequent push to origin
+
