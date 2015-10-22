@@ -10,3 +10,6 @@ And making a second edit and commit cycle
 
 ok, try again but with rebase instead of merge
 
+
+and a second rebase edit
+
