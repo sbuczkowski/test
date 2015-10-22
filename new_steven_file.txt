@@ -7,3 +7,6 @@ on merge to master and subsequent push to origin
 
 And making a second edit and commit cycle
 
+
+ok, try again but with rebase instead of merge
+
