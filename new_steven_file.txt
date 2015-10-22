@@ -13,3 +13,7 @@ ok, try again but with rebase instead of merge
 
 and a second rebase edit
 
+Ok, now try with rebase to squash the commits
+
+and a second commit to rebase and squash
+
