@@ -21,3 +21,5 @@ and another test. will make several small commits and squash them when I merge
 into master, then make several more and try to merge into master. Mayhem
 should ensue.
 
+and a second change
+
