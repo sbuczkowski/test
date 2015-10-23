@@ -23,3 +23,5 @@ should ensue.
 
 and a second change
 
+and a third change (then merge/rebase/squash)
+
