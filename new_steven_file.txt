@@ -17,3 +17,7 @@ Ok, now try with rebase to squash the commits
 
 and a second commit to rebase and squash
 
+and another test. will make several small commits and squash them when I merge
+into master, then make several more and try to merge into master. Mayhem
+should ensue.
+
