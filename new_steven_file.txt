@@ -1,3 +1,7 @@
+making a change to commit and then tag. later I will meger this back in to
+master and see what happens to the tags.
+
+
 Introducing a new file to be first commit in an 
 eventual squash of commits
 
